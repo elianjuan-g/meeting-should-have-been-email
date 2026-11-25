@@ -1,0 +1,1 @@
+{"description":"One-line joke about a meeting that should have been an email — make.fun bounty entry.","license":"MIT","name":"meeting-should-have-been-email","private":true,"scripts":{"check":"node check.mjs","start":"node main.ts"},"type":"module","version":"1.0.0"}
