@@ -6,7 +6,7 @@ import { execFileSync } from "node:child_process";
 import { readFileSync } from "node:fs";
 
 const EXPECTED =
-  "This meeting was an email that got ambitious and brought friends.";
+  "This meeting was an email that got insecure and brought friends.";
 
 execFileSync("node", ["main.ts"], { stdio: "inherit" });
 const out = readFileSync("/output/entry.txt", "utf8");

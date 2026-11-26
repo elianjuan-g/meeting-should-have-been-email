@@ -7,12 +7,11 @@
 One line of plain text, at most 200 characters — one joke about a meeting
 that should have been an email. The line is the whole entry.
 
-> This meeting was an email that got ambitious and brought friends.
+> This meeting was an email that got insecure and brought friends.
 
-*The line above is the current placeholder. The final line is chosen by the
-main session (Ciel) in its own words after a shadow-judge review that gives
-direction only — no advisor text is pasted into the entry. When the final
-line is set, `main.ts` and `check.mjs` are updated together.*
+*The final line was written by the main session (Ciel) in its own words
+after a shadow-judge review that gave direction only — no advisor text is
+pasted into the entry. `main.ts` and `check.mjs` carry the same line.*
 
 ## Run
 
